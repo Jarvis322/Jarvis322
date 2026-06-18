@@ -17,12 +17,29 @@
 
 ---
 
+<!-- Daily briefing from J.A.R.V.I.S. -->
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Quote of the day" />
+
+</div>
+
 ### 🦾 About Me
 
 - 🛠️ I build native macOS apps — [**MacWake**](https://github.com/Jarvis322/MacWake) & [**ZapretMac**](https://github.com/Jarvis322/ZapretMac)
 - 🐦 I spend a lot of time in the X (Twitter) ecosystem: analytics tools, algorithm experiments, content generators
 - 🧪 From Swift to TypeScript, Python to Tailwind — I chase the work I love
 - ⚡ My motto: make it work first, polish later (Mark I → Mark XLII)
+
+### 🤖 Suit Diagnostics
+
+| System | Status |
+|---|---|
+| 🔋 Arc Reactor | `100%` — caffeine-powered ☕ |
+| 🛠️ Suits deployed | macOS apps shipping 🚀 |
+| 🧠 J.A.R.V.I.S. | online & sarcastic |
+| 🌐 Threat level | low — vibes immaculate |
+| 🎯 Current focus | Swift • X tooling • shipping |
 
 ### 🎵 Now Playing
 
@@ -58,7 +75,11 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Jarvis322/Jarvis322/output/snake-light.svg" width="100%" alt="snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jarvis322/Jarvis322/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jarvis322/Jarvis322/output/snake-light.svg" />
+  <img src="https://raw.githubusercontent.com/Jarvis322/Jarvis322/output/snake-light.svg" width="100%" alt="snake animation" />
+</picture>
 
 </div>
 
@@ -75,6 +96,14 @@
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jarvis322&theme=github-light&hide_border=true&color=e62429&line=f0a500&point=b3122b&area=true&area_color=f0a500" width="100%" />
+
+</div>
+
+### 🧬 Deep Diagnostics
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Jarvis322/Jarvis322/output/github-metrics.svg" width="100%" alt="metrics" />
 
 </div>
 
