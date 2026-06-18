@@ -20,7 +20,7 @@ jobs:
           user: Jarvis322
           filename: github-metrics.svg
           output_action: commit
-          committer_branch: output
+          committer_branch: meta
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Istanbul

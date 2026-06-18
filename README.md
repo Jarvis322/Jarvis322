@@ -103,7 +103,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Jarvis322/Jarvis322/output/github-metrics.svg" width="100%" alt="metrics" />
+<img src="https://raw.githubusercontent.com/Jarvis322/Jarvis322/meta/github-metrics.svg" width="100%" alt="metrics" />
 
 </div>
 
