@@ -31,6 +31,27 @@
 - 🧪 From Swift to TypeScript, Python to Tailwind — I chase the work I love
 - ⚡ My motto: make it work first, polish later (Mark I → Mark XLII)
 
+### 🌐 yigitech.dev
+
+My portfolio lives at **[yigitech.dev](https://yigitech.dev)** ([Türkçe](https://yigitech.dev/tr)): the apps I ship and the websites I build.
+
+**Apps**
+
+| App | What it does |
+|---|---|
+| [**Haftra**](https://yigitech.dev/apps/haftra) | GLP-1 shot tracker for iPhone |
+| [**Relay**](https://yigitech.dev/apps/relay) | Mirror your iPhone screen onto your Tesla's display |
+| [**Wake**](https://yigitech.dev/apps/wake) | Battery health, charge limit and a Dynamic Island for your Mac |
+| [**Flick**](https://yigitech.dev/apps/flick) | Swipe through films and series to pick tonight's watch |
+| [**Dozlu**](https://yigitech.dev/apps/dozlu) | Medication reminders that keep every dose on time |
+| [**Sıfır Duman**](https://yigitech.dev/apps/sifirduman) | Quit-smoking tracker: smoke-free days and money saved |
+| [**More GB**](https://yigitech.dev/apps/moregb) | Get back the iPhone storage iOS holds as cache (coming soon) |
+| [**NetVarlık**](https://yigitech.dev/apps/netvarlik) | Your net worth in Turkish lira (coming soon) |
+
+**Websites I built**
+
+[Helvetia Limousine](https://helvetialimousine.ch) · [WeDent Clinics](https://wedentclinics.com) · [Hepsiparfum](https://hepsiparfum.com) · [Oscar Education](https://oscareducation.com) · [TeenEagle](https://teeneagle.org) · [Kariyer Destek](https://kariyerdestek.de/) · [ÇANKAYAPI](https://cankayapi.com) · [Informasive](https://informasive.com) · [Drvia](https://drvia.com.tr/) · [buraktatli.com](https://buraktatli.com) · [VizeBelge](https://vizebelge.com/) · [Summer Work Germany](https://summerworkgermany.vercel.app/)
+
 ### 🤖 Suit Diagnostics
 
 | System | Status |
@@ -112,6 +133,8 @@
 <div align="center">
 
 [![X](https://img.shields.io/badge/x.com%2Fyigitech-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yigitech)
+[![yigitech.dev](https://img.shields.io/badge/yigitech.dev-111311?style=for-the-badge&logo=safari&logoColor=c6f432)](https://yigitech.dev)
+[![Email](https://img.shields.io/badge/info%40yigitech.dev-c6f432?style=for-the-badge&logo=maildotru&logoColor=111311)](mailto:info@yigitech.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yigitcpolat/)
 
 </div>
