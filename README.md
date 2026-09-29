@@ -22,6 +22,37 @@
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
+## ⭐ Most starred
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Jarvis322/macos-sysdata"><b>🧹 macos-sysdata</b></a><br/>
+      <sub>See what is really inside macOS System Data and delete it item by item. A free menu bar app that shows each command before it runs.</sub><br/><br/>
+      <img src="https://img.shields.io/github/stars/Jarvis322/macos-sysdata?style=flat-square&logo=github&color=f0a500&labelColor=111111" alt="🧹 macos-sysdata stars" /> <img src="https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Jarvis322/MacWake"><b>⚡ MacWake</b></a><br/>
+      <sub>Battery health, charge limit and a Dynamic Island for your Mac. An elegant SwiftUI menu bar app.</sub><br/><br/>
+      <img src="https://img.shields.io/github/stars/Jarvis322/MacWake?style=flat-square&logo=github&color=f0a500&labelColor=111111" alt="⚡ MacWake stars" /> <img src="https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Jarvis322/macoscode"><b>🍎 macoscode</b></a><br/>
+      <sub>100 power-user tweaks and an interactive terminal TUI/CLI for macOS.</sub><br/><br/>
+      <img src="https://img.shields.io/github/stars/Jarvis322/macoscode?style=flat-square&logo=github&color=f0a500&labelColor=111111" alt="🍎 macoscode stars" /> <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Jarvis322/ZapretMac"><b>🛡️ ZapretMac</b></a><br/>
+      <sub>Zapret helper for macOS.</sub><br/><br/>
+      <img src="https://img.shields.io/github/stars/Jarvis322/ZapretMac?style=flat-square&logo=github&color=f0a500&labelColor=111111" alt="🛡️ ZapretMac stars" /> <img src="https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
+    </td>
+  </tr>
+</table>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
 ## 📱 Apps
 
 Everything lives at **[yigitech.dev](https://yigitech.dev)** ([Türkçe](https://yigitech.dev/tr)).
@@ -68,19 +99,6 @@ Everything lives at **[yigitech.dev](https://yigitech.dev)** ([Türkçe](https:/
     </td>
   </tr>
 </table>
-
-<img src="assets/divider.svg" width="100%" alt="" />
-
-## 🧪 Open source
-
-| Project | What it does | Stack |
-|:--|:--|:--|
-| [**MacWake**](https://github.com/Jarvis322/MacWake) | Battery health, charge limit and a Dynamic Island for your Mac | ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white) |
-| [**macos-sysdata**](https://github.com/Jarvis322/macos-sysdata) | See what is really inside macOS System Data and delete it item by item | ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white) |
-| [**Asus-Merlin-Zapret-GUI**](https://github.com/Jarvis322/Asus-Merlin-Zapret-GUI) | Manage zapret from the AsusWRT-Merlin router interface | ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
-| [**apple-ads-api-starter**](https://github.com/Jarvis322/apple-ads-api-starter) | Secure starter and dashboard for Apple Ads Campaign Management API 5 | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| [**macoscode**](https://github.com/Jarvis322/macoscode) | 100 power-user tweaks and an interactive terminal TUI for macOS | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [**apfs-checkpoint-recovery**](https://github.com/Jarvis322/apfs-checkpoint-recovery) | Recover files from a corrupted APFS volume via an earlier checkpoint | ![Guide](https://img.shields.io/badge/-Guide-555?style=flat-square&logo=readthedocs&logoColor=white) |
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
