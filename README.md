@@ -51,6 +51,8 @@
   </tr>
 </table>
 
+<sub>**More:** [apfs-checkpoint-recovery](https://github.com/Jarvis322/apfs-checkpoint-recovery) · [Asus-Merlin-Zapret-GUI](https://github.com/Jarvis322/Asus-Merlin-Zapret-GUI) · [apple-ads-api-starter](https://github.com/Jarvis322/apple-ads-api-starter)</sub>
+
 <img src="assets/divider.svg" width="100%" alt="" />
 
 ## 📱 Apps
