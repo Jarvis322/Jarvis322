@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="1200" height="240" role="img" aria-label="Animated boot sequence: J.A.R.V.I.S. system check passed for Swift, SwiftUI, TypeScript and Python.">
+  <style>
+    .mono{font-family:"SF Mono",ui-monospace,"Fira Code",Menlo,Consolas,monospace}
+    @keyframes l0{0%,3.99%{opacity:0}4.00%,93%{opacity:1}98%,100%{opacity:0}}.l0{animation:l0 12s linear infinite}@keyframes l1{0%,23.99%{opacity:0}24.00%,93%{opacity:1}98%,100%{opacity:0}}.l1{animation:l1 12s linear infinite}@keyframes l2{0%,45.99%{opacity:0}46.00%,93%{opacity:1}98%,100%{opacity:0}}.l2{animation:l2 12s linear infinite}@keyframes l3{0%,67.99%{opacity:0}68.00%,93%{opacity:1}98%,100%{opacity:0}}.l3{animation:l3 12s linear infinite}
+    @keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+    .cur{animation:blink 1s steps(1) infinite;fill:#f0a500}
+    @media (prefers-reduced-motion:reduce){[class^="l"],.cur{animation:none;opacity:1}}
+  </style>
+  <defs>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff3b3f"/><stop offset="1" stop-color="#f0a500"/></linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="1199" height="239" rx="20" fill="#0c0c10" stroke="#ffffff" stroke-opacity="0.14"/>
+  <path d="M0.5 20.5a20 20 0 0 1 20-20h1159a20 20 0 0 1 20 20V44H0.5Z" fill="#ffffff" fill-opacity="0.05"/>
+  <circle cx="30" cy="24" r="6" fill="#ff5f57"/><circle cx="52" cy="24" r="6" fill="#febc2e"/><circle cx="74" cy="24" r="6" fill="#28c840"/>
+  <text class="mono" x="600" y="29" text-anchor="middle" font-size="13" fill="#ffffff" fill-opacity="0.45">jarvis — zsh — 120×24</text>
+  <rect x="0" y="44" width="1200" height="2" fill="url(#bar)" fill-opacity="0.9"/>
+  <text class="mono l0" x="40" y="92" font-size="17" fill="#e6e6e6"><tspan fill="#f0a500">&gt;</tspan> booting <tspan fill="#ffd76b">J.A.R.V.I.S.</tspan> v3.22 ...</text><text class="mono l1" x="40" y="126" font-size="17" fill="#e6e6e6"><tspan fill="#f0a500">&gt;</tspan> system check: <tspan fill="#4ade80">✔</tspan> Swift  <tspan fill="#4ade80">✔</tspan> SwiftUI  <tspan fill="#4ade80">✔</tspan> TypeScript  <tspan fill="#4ade80">✔</tspan> Python</text><text class="mono l2" x="40" y="160" font-size="17" fill="#e6e6e6"><tspan fill="#f0a500">&gt;</tspan> status: <tspan fill="#ffffff" fill-opacity="0.75">coffee full, compiler ready, ideas overflowing.</tspan></text><text class="mono l3" x="40" y="194" font-size="17" fill="#e6e6e6"><tspan fill="#f0a500">&gt;</tspan> next: <tspan fill="#ff3b3f">ship something</tspan><tspan class="cur"> ▌</tspan></text>
+</svg>

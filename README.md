@@ -13,6 +13,12 @@
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
+<div align="center">
+
+<img src="assets/boot.svg" width="100%" alt="Animated boot sequence: J.A.R.V.I.S. system check passed for Swift, SwiftUI, TypeScript and Python." />
+
+</div>
+
 ## 🦾 Now
 
 - 🛠️ Shipping native Apple apps in **Swift** and **SwiftUI**, from menu bar tools to iPhone apps
