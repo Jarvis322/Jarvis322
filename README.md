@@ -1,152 +1,137 @@
 <div align="center">
 
-<!-- J.A.R.V.I.S. boot banner — Iron Man red & gold -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e62429,100:f0a500&height=200&section=header&text=Good%20morning,%20I'm%20Yi%C4%9Fit&fontColor=ffffff&fontSize=42&desc=Just%20A%20Rather%20Very%20Intelligent%20Developer&descSize=18&descAlignY=62" width="100%"/>
+<img src="assets/hero.svg" width="100%" alt="Good morning, I'm Yiğit — native macOS and iOS apps, and the websites around them." />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E62429&center=true&vCenter=true&width=600&lines=Building+native+macOS+apps+with+Swift;Tinkering+with+the+X+ecosystem;From+Swift+to+TypeScript+to+Python;%22Sometimes+you+gotta+run+before+you+can+walk.%22" alt="Typing SVG" />
-</a>
+<br/>
+
+[![yigitech.dev](https://img.shields.io/badge/yigitech.dev-111311?style=for-the-badge&logo=safari&logoColor=c6f432)](https://yigitech.dev)
+[![X](https://img.shields.io/badge/@yigitech-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yigitech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yigitcpolat/)
+[![Email](https://img.shields.io/badge/info@yigitech.dev-e62429?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:info@yigitech.dev)
 
 </div>
 
-```yaml
-> Booting J.A.R.V.I.S. v3.22 ...
-> System check: ✔ Swift  ✔ TypeScript  ✔ Python  ✔ Tailwind
-> Status: ☕ coffee full, compiler ready, ideas overflowing.
-```
+<img src="assets/divider.svg" width="100%" alt="" />
 
----
+## 🦾 Now
 
-<!-- Daily briefing from J.A.R.V.I.S. -->
+- 🛠️ Shipping native Apple apps in **Swift** and **SwiftUI**, from menu bar tools to iPhone apps
+- 🐦 Living in the **X ecosystem**: analytics tools, algorithm experiments, content generators
+- 🌐 Building websites for clients across Switzerland, Germany and Türkiye
+- ⚡ Motto: make it work first, polish later (Mark I → Mark XLII)
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## 📱 Apps
+
+Everything lives at **[yigitech.dev](https://yigitech.dev)** ([Türkçe](https://yigitech.dev/tr)).
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://yigitech.dev/apps/haftra"><b>💉 Haftra</b></a><br/>
+      <sub>GLP-1 shot tracker for iPhone</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://yigitech.dev/apps/relay"><b>📡 Relay</b></a><br/>
+      <sub>Mirror your iPhone screen onto your Tesla's display</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://yigitech.dev/apps/wake"><b>🔋 Wake</b></a><br/>
+      <sub>Battery health, charge limit and a Dynamic Island for your Mac</sub>
+    </td>
+    <td valign="top">
+      <a href="https://yigitech.dev/apps/flick"><b>🎬 Flick</b></a><br/>
+      <sub>Swipe through films and series to pick tonight's watch</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://yigitech.dev/apps/dozlu"><b>💊 Dozlu</b></a><br/>
+      <sub>Medication reminders that keep every dose on time</sub>
+    </td>
+    <td valign="top">
+      <a href="https://yigitech.dev/apps/sifirduman"><b>🚭 Sıfır Duman</b></a><br/>
+      <sub>Quit-smoking tracker: smoke-free days and money saved</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://yigitech.dev/apps/moregb"><b>💾 More GB</b></a> · <sub><i>coming soon</i></sub><br/>
+      <sub>Get back the iPhone storage iOS holds as cache</sub>
+    </td>
+    <td valign="top">
+      <a href="https://yigitech.dev/apps/netvarlik"><b>🪙 NetVarlık</b></a> · <sub><i>coming soon</i></sub><br/>
+      <sub>Your net worth in Turkish lira</sub>
+    </td>
+  </tr>
+</table>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## 🧪 Open source
+
+| Project | What it does | Stack |
+|:--|:--|:--|
+| [**MacWake**](https://github.com/Jarvis322/MacWake) | Battery health, charge limit and a Dynamic Island for your Mac | ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white) |
+| [**macos-sysdata**](https://github.com/Jarvis322/macos-sysdata) | See what is really inside macOS System Data and delete it item by item | ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white) |
+| [**Asus-Merlin-Zapret-GUI**](https://github.com/Jarvis322/Asus-Merlin-Zapret-GUI) | Manage zapret from the AsusWRT-Merlin router interface | ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
+| [**apple-ads-api-starter**](https://github.com/Jarvis322/apple-ads-api-starter) | Secure starter and dashboard for Apple Ads Campaign Management API 5 | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| [**macoscode**](https://github.com/Jarvis322/macoscode) | 100 power-user tweaks and an interactive terminal TUI for macOS | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [**apfs-checkpoint-recovery**](https://github.com/Jarvis322/apfs-checkpoint-recovery) | Recover files from a corrupted APFS volume via an earlier checkpoint | ![Guide](https://img.shields.io/badge/-Guide-555?style=flat-square&logo=readthedocs&logoColor=white) |
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## 🧰 Arsenal
+
 <div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Quote of the day" />
-
-</div>
-
-### 🦾 About Me
-
-- 🛠️ I build native macOS apps — [**MacWake**](https://github.com/Jarvis322/MacWake) & [**ZapretMac**](https://github.com/Jarvis322/ZapretMac)
-- 🐦 I spend a lot of time in the X (Twitter) ecosystem: analytics tools, algorithm experiments, content generators
-- 🧪 From Swift to TypeScript, Python to Tailwind — I chase the work I love
-- ⚡ My motto: make it work first, polish later (Mark I → Mark XLII)
-
-### 🌐 yigitech.dev
-
-My portfolio lives at **[yigitech.dev](https://yigitech.dev)** ([Türkçe](https://yigitech.dev/tr)): the apps I ship and the websites I build.
-
-**Apps**
-
-| App | What it does |
-|---|---|
-| [**Haftra**](https://yigitech.dev/apps/haftra) | GLP-1 shot tracker for iPhone |
-| [**Relay**](https://yigitech.dev/apps/relay) | Mirror your iPhone screen onto your Tesla's display |
-| [**Wake**](https://yigitech.dev/apps/wake) | Battery health, charge limit and a Dynamic Island for your Mac |
-| [**Flick**](https://yigitech.dev/apps/flick) | Swipe through films and series to pick tonight's watch |
-| [**Dozlu**](https://yigitech.dev/apps/dozlu) | Medication reminders that keep every dose on time |
-| [**Sıfır Duman**](https://yigitech.dev/apps/sifirduman) | Quit-smoking tracker: smoke-free days and money saved |
-| [**More GB**](https://yigitech.dev/apps/moregb) | Get back the iPhone storage iOS holds as cache (coming soon) |
-| [**NetVarlık**](https://yigitech.dev/apps/netvarlik) | Your net worth in Turkish lira (coming soon) |
-
-**Websites I built**
-
-[Helvetia Limousine](https://helvetialimousine.ch) · [WeDent Clinics](https://wedentclinics.com) · [Hepsiparfum](https://hepsiparfum.com) · [Oscar Education](https://oscareducation.com) · [TeenEagle](https://teeneagle.org) · [Kariyer Destek](https://kariyerdestek.de/) · [ÇANKAYAPI](https://cankayapi.com) · [Informasive](https://informasive.com) · [Drvia](https://drvia.com.tr/) · [buraktatli.com](https://buraktatli.com) · [VizeBelge](https://vizebelge.com/) · [Summer Work Germany](https://summerworkgermany.vercel.app/)
-
-### 🤖 Suit Diagnostics
-
-| System | Status |
-|---|---|
-| 🔋 Arc Reactor | `100%` — caffeine-powered ☕ |
-| 🛠️ Suits deployed | macOS apps shipping 🚀 |
-| 🧠 J.A.R.V.I.S. | online & sarcastic |
-| 🌐 Threat level | low — vibes immaculate |
-| 🎯 Current focus | Swift • X tooling • shipping |
-
-### 🎵 Now Playing
-
-<div align="center">
-
-[![Now Playing](https://img.shields.io/badge/Now_Playing-Die_With_a_Smile_%E2%80%94_Bruno_Mars_%26_Lady_Gaga-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe)
-
-</div>
-
-### 🧰 Arsenal
 
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=for-the-badge&logo=swift&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=for-the-badge&logo=swift&logoColor=white)
-
-### 📊 Stark Industries Telemetry
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Jarvis322&show_icons=true&hide_border=true&bg_color=ffffff&title_color=e62429&icon_color=f0a500&text_color=333333" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jarvis322&layout=compact&hide_border=true&bg_color=ffffff&title_color=e62429&text_color=333333&langs_count=8" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jarvis322&hide_border=true&background=ffffff&ring=e62429&fire=f0a500&currStreakLabel=e62429&sideLabels=333333&dates=777777" height="165" />
 
 </div>
 
-### 🐍 Contribution Snake
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## 📊 Telemetry
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jarvis322/Jarvis322/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jarvis322/Jarvis322/output/snake-light.svg" />
-  <img src="https://raw.githubusercontent.com/Jarvis322/Jarvis322/output/snake-light.svg" width="100%" alt="snake animation" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Jarvis322&show_icons=true&hide_border=true&theme=transparent&title_color=f0a500&icon_color=e62429&text_color=e6e6e6&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jarvis322&show_icons=true&hide_border=true&theme=transparent&title_color=e62429&icon_color=f0a500&text_color=333333&count_private=true" alt="GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Jarvis322&layout=compact&hide_border=true&theme=transparent&title_color=f0a500&text_color=e6e6e6&langs_count=8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jarvis322&layout=compact&hide_border=true&theme=transparent&title_color=e62429&text_color=333333&langs_count=8" alt="Top languages" />
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Jarvis322&hide_border=true&background=00000000&ring=f0a500&fire=e62429&currStreakLabel=f0a500&currStreakNum=e6e6e6&sideNums=e6e6e6&sideLabels=b3b3b3&dates=808080" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=Jarvis322&hide_border=true&background=00000000&ring=e62429&fire=f0a500&currStreakLabel=e62429&currStreakNum=333333&sideNums=333333&sideLabels=555555&dates=777777" alt="Contribution streak" />
 </picture>
 
 </div>
 
-### 🚀 Active Projects (Iron Legion)
+<img src="assets/divider.svg" width="100%" alt="" />
 
-| Project | Description | Tech |
-|---|---|---|
-| [**MacWake**](https://github.com/Jarvis322/MacWake) | Menu-bar + Dynamic Island tool that keeps your Mac awake | Swift |
-| [**ZapretMac**](https://github.com/Jarvis322/ZapretMac) | Zapret helper for macOS | Swift |
-| [**X-Tweet-Analiz**](https://github.com/Jarvis322/X-Tweet-Analiz) | X (Twitter) post analytics tool | HTML/JS |
+## 🌍 Websites I built
 
-### 📈 Contribution Activity
+[Helvetia Limousine](https://helvetialimousine.ch) · [WeDent Clinics](https://wedentclinics.com) · [Hepsiparfum](https://hepsiparfum.com) · [Oscar Education](https://oscareducation.com) · [TeenEagle](https://teeneagle.org) · [Kariyer Destek](https://kariyerdestek.de/) · [ÇANKAYAPI](https://cankayapi.com) · [Informasive](https://informasive.com) · [Drvia](https://drvia.com.tr/) · [buraktatli.com](https://buraktatli.com) · [VizeBelge](https://vizebelge.com/) · [Summer Work Germany](https://summerworkgermany.vercel.app/)
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jarvis322&theme=github-light&hide_border=true&color=e62429&line=f0a500&point=b3122b&area=true&area_color=f0a500" width="100%" />
+<br/>
 
-</div>
-
-### 🧬 Deep Diagnostics
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Jarvis322/Jarvis322/meta/github-metrics.svg" width="100%" alt="metrics" />
-
-</div>
-
-### 🌐 Comm Channels
-
-<div align="center">
-
-[![X](https://img.shields.io/badge/x.com%2Fyigitech-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yigitech)
-[![yigitech.dev](https://img.shields.io/badge/yigitech.dev-111311?style=for-the-badge&logo=safari&logoColor=c6f432)](https://yigitech.dev)
-[![Email](https://img.shields.io/badge/info%40yigitech.dev-c6f432?style=for-the-badge&logo=maildotru&logoColor=111311)](mailto:info@yigitech.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yigitcpolat/)
-
-</div>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Jarvis322&style=flat-square&color=e62429&label=Visitors+greeted+by+J.A.R.V.I.S." />
-
-<br/><br/>
-
-<sub>⚙️ <i>"I am J.A.R.V.I.S. — this profile was optimized by me."</i></sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f0a500,100:e62429&height=100&section=footer" width="100%"/>
+<sub><i>"Sometimes you gotta run before you can walk."</i></sub>
 
 </div>
